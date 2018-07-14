@@ -24,6 +24,12 @@ public class AccountDetails
 
 		//return null;
 	}
+	
+	public void creatAccount ()
 
+	{
+	
+	}
+	
 
 }
